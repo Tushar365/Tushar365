@@ -1,3 +1,4 @@
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Tushar Thokdar</h1>
 <h3 align="center">A motivated recent engineering graduate with a strong interest in applying data science and machine learning (AI/ML)</h3>
 <img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2022/05/Python-course-overview.gif">
