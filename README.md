@@ -2,13 +2,12 @@
 <h1 align="center">Hi, I'm Tushar Thokdar</h1>
 <h3 align="center">A motivated recent engineering graduate with a strong interest in data science and machine learning (AI/ML)</h3>
 <img align="right" alt="Coding" width="500" src="https://ameyacloud.in/wp-content/uploads/2022/05/Python-course-overview.gif">
-- 🔭 I’m currently working on **Pre trained model Finetuning**
 
-- 🌱 I’m currently learning **gen-ai and Langchain**
+🔭 Current Focus: Fine-tuning pre-trained models
+🌱 Learning Journey: Generative AI & Langchain
+💬 Ask Me About: Python, Machine Learning, Deep Learning
+📫 Reach Me At: tusharthokdarp@gmail.com
 
-- 💬 Ask me about **Python , Machine Learning , Deep Learning**
-
-- 📫 How to reach me **tusharthokdarp@gmail.com**
 <p align="left">
 <h2 align="left">Connect with me:</h2>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-thokdar-355247307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-thokdar-355247307/" height="40" width="50" /></a>  <a href="https://kaggle.com/www.kaggle.com/tusharthokdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/tusharthokdar" height="40" width="50" /></a>  <a href="https://fb.com/https://www.facebook.com/tushar.thokdar.0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tushar.thokdar.0/" height="40" width="50" /></a>  <a href="https://instagram.com/https://www.instagram.com/tushar_thokdar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tushar_thokdar_/" height="40" width="50" /></a>  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tusharthokdar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tusharthokdar10" height="40" width="50" /></a>
