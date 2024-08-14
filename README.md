@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Tushar Thokdar</h1>
 <h3 align="center">A motivated recent engineering graduate with a strong interest in data science and machine learning (AI/ML)</h3>
 <img align="right" alt="Coding" width="500" src="https://ameyacloud.in/wp-content/uploads/2022/05/Python-course-overview.gif">
-- 🔭 I’m currently working on **Plant disease detection**
+- 🔭 I’m currently working on **Pre trained model Finetuning**
 
-- 🌱 I’m currently learning **NLP and Langchain**
+- 🌱 I’m currently learning **gen-ai and Langchain**
 
-- 💬 Ask me about **Python & Machine Learning**
+- 💬 Ask me about **Python , Machine Learning , Deep Learning**
 
 - 📫 How to reach me **tusharthokdarp@gmail.com**
 <p align="left">
