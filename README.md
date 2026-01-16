@@ -55,6 +55,12 @@ AWS . GCP
 ---
 
 <div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=tushar365&theme=darkhula&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tushar365&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+[![Tushar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tushar365&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tushar365&color=58a6ff&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/tushar365?style=flat-square&color=58a6ff)
