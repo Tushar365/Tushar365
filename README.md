@@ -56,8 +56,8 @@ AWS . GCP
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar365&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar365&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar365&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar365&layout=compact&theme=github_dark)
 
 </div>
